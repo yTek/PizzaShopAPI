@@ -1,0 +1,10 @@
+# Binaries
+bin/
+obj/
+
+# IDE Conf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln
